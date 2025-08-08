@@ -1,0 +1,14 @@
+{
+  "ingestion_server": "localhost",
+  "ingestion_port": "5044",
+  "agent_name": "log-forwarder",
+  "version": "1.0.0",
+  "linux_rsyslog_port": "514",
+  "linux_filebeat_log_path": "/var/log/filebeat",
+  "linux_custom_log_paths": [],
+  "windows_filebeat_version": "8.11.0",
+  "windows_filebeat_install_path": "C:\\Program Files\\Filebeat",
+  "windows_log_agent_data_path": "C:\\ProgramData\\LogAgent",
+  "windows_custom_log_paths": [],
+  "filebeat_log_keepfiles": 7
+}

@@ -1,0 +1,2 @@
+Tolong Buatkan python  script yang memiliki fungsi untuk generate script berdasarkan os yang dipilih, Linux (All Distr) dan Windows.Script tersebut berisikan langkah langkah untuk Instalasi Log Ingestion Server Yang dapat membaca log yang diforward oleh endpoint/agent lainnya dan juga dapat melakukan formatting & filtering terhadap semua log yang diterima, beberapa filtering yang mungkin perlu di implementasikan seperti, SNORT, OSSEC, SURICATA, Apache Logs, dst... untuk bisa dikirimkan ke server SIEM (ELK) untuk dapat dilakukan monitoring dengan efektif
+
